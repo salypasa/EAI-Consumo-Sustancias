@@ -1,0 +1,12 @@
+
+id,edad,abuso_emocional,abuso_fisico,negligencia_emocional,negligencia_fisica,violencia_hogar,consumo_familiar,salud_mental_familiar,separacion_familiar,total_eai,consumo_sustancias
+P001,22,1,0,1,0,1,0,0,0,3,1
+P002,35,0,0,0,0,0,0,0,0,0,0
+P003,29,1,1,0,0,1,1,0,0,4,1
+P004,41,0,0,1,0,0,0,1,0,2,0
+P005,25,1,0,0,1,0,1,0,1,4,1
+P006,38,0,0,0,0,0,0,0,1,1,0
+P007,31,1,1,1,0,1,0,1,0,5,1
+P008,27,0,0,0,1,0,0,0,0,1,0
+P009,44,0,1,0,0,0,1,0,0,2,1
+P010,33,0,0,0,0,0,0,0,0,0,0
