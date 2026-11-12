@@ -1,0 +1,29 @@
+
+{
+  "name": "eai-consumo-sustancias-sintetico",
+  "title": "Experiencias adversas en la infancia y consumo de sustancias",
+  "description": "Conjunto de datos sintéticos para aprendizaje de GitHub y Python.",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "datos-eai",
+      "path": "../data/eai_consumo_sintetico.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8"
+    }
+  ],
+  "keywords": [
+    "experiencias adversas",
+    "infancia",
+    "consumo de sustancias",
+    "datos sintéticos",
+    "psicología"
+  ]
+}
